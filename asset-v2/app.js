@@ -9,19 +9,19 @@ var app = new function() {
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "b2-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "b3-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "b4-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "b5-og",
         color: "828282",
         uniqsnd: !0
     }, {
@@ -29,51 +29,51 @@ var app = new function() {
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "b7-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "b8-og,
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "e0-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "e1-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "e2-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "e3-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "v0-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "v1-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "v2-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "v4-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "v5-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "v6-og",
         color: "828282",
         uniqsnd: !0
     }, {
