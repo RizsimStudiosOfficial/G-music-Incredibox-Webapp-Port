@@ -17,7 +17,7 @@ var app = new function() {
         color: "1EB482",
         uniqsnd: !0
     }, {
-        name: "drum5_charley",
+        name: "21_cyclops", /* hehe sneaky joke hehe */
         color: "1EB482",
         uniqsnd: !0
     }, {
