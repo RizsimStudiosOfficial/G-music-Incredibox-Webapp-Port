@@ -5522,6 +5522,14 @@ video::-webkit-media-controls {
 	color: #fff
 }
 
+.pop#pop-mod .text{
+	color:#000;
+}
+
+.darkmode .pop#pop-mod .text{
+	color:#fff;
+}
+
 .pop#pop-credit .container .logo {
 	display: inline-block;
 	width: 370px;
