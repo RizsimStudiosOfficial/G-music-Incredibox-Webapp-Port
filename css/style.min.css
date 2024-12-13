@@ -5522,11 +5522,11 @@ video::-webkit-media-controls {
 	color: #fff
 }
 
-.pop#pop-mod .text{
+.pop#pop-mod .container .text{
 	color:#000;
 }
 
-.darkmode .pop#pop-mod .text{
+.darkmode .pop#pop-mod .container .text{
 	color:#fff;
 }
 
