@@ -485,6 +485,17 @@ body.miniPlayer #lock-pause .bt .bck {
 }
 
 #page-splash .centered #sp-baseline,
+
+#page-splash .centered #sp-baselinejoke {
+	top: 233px;
+	width: 530px;
+	margin-left: -265px;
+	-webkit-transform: translateY(0);
+	transform: translateY(0)
+}
+
+#page-splash .centered #sp-baselinejoke,
+
 #page-splash .centered #sp-text {
 	position: absolute;
 	left: 50%;
@@ -504,8 +515,33 @@ body.miniPlayer #lock-pause .bt .bck {
 	cursor: default
 }
 
+#page-splash .centered #sp-textjoke {
+	position: absolute;
+	left: 50%;
+	height: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: ralewaymedium, Sans-Serif;
+	font-size: 18px;
+	letter-spacing: .7px;
+	color: #828282
+}
+
+#page-splash .centered #sp-textjoke {
+	top: 160px;
+	width: 800px;
+	margin-left: -400px;
+	cursor: default
+}
+
 #page-splash .centered #sp-headphone,
 #page-splash .centered #sp-text {
+	-webkit-transform: translateY(40px);
+	transform: translateY(40px);
+	opacity: 0
+}
+
+#page-splash .centered #sp-textjoke {
 	-webkit-transform: translateY(40px);
 	transform: translateY(40px);
 	opacity: 0
