@@ -79,7 +79,7 @@ var app = new function() {
     }, {
         name: "v6-og",
         color: "828282",
-        uniqsnd: !0
+        uniqsnd: !1
     }], this.bonusarray = [/*G MUSIC has no bonuses at all */];
     for (var o = 0, n = this.animearray.length; o < n; o++) {
         var i = this.animearray[o].name;
